@@ -83,7 +83,7 @@
 
   <properties>
     <karaf-maven-plugin.aggregateFeatures>false</karaf-maven-plugin.aggregateFeatures>
-    <karaf-maven-plugin.version>3.0.8</karaf-maven-plugin.version>
+    <karaf-maven-plugin.version>4.2.2</karaf-maven-plugin.version>
     <servlet-api.version>2.3</servlet-api.version>
     <mockito.version>1.9.5</mockito.version>
     <pdi.version>8.3.0.0-SNAPSHOT</pdi.version>
